@@ -7,7 +7,7 @@
     'description': """
 
     """,
-    'depends' : ['base'],
+    'depends' : ['web'],
     'data':[
         'views.xml',
         ],
